@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ejercicio4</string>
+    <string name="mensaje_bombilla_apagada">Apagar</string>
+    <string name="mensaje_bombilla_encendida">Encender</string>
+    <string name="content_apagada">La bombilla se apaga</string>
+    <string name="content_encendida">La bombilla se enciende</string>
+</resources>
